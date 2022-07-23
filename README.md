@@ -1,10 +1,7 @@
-# React Express Starter Pack
+# PHAT FITNESS
 
-> Create full stack apps with React and Express. Run your client and server with a single command. 
+> A Fun fitness app 
 
-### Redux Version
-This version does not include Redux
-[Click Here For Redux Version](https://github.com/bradtraversy/react_redux_express_starter) 
 
 ## Quick Start
 
@@ -33,10 +30,6 @@ npm run client
 
 Jericho Sharman
 [my homepage](http://www.jerichosharman.com.au)
-
-### Version
-
-1.0.0
 
 ### License
 
