@@ -7,6 +7,7 @@ class Customers extends Component {
     this.state = {
       customers: []
     };
+    
   }
 
   componentDidMount() {
