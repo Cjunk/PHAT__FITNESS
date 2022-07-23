@@ -31,8 +31,8 @@ npm run client
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Jericho Sharman
+[my homepage](http://www.jerichosharman.com.au)
 
 ### Version
 
